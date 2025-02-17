@@ -7,6 +7,7 @@
 - [Midterm points](comp1238.md)
 
 ## Schedule
-- 16:00 - COMP 1236 - Fund. of Computing Logic
-- 18:00 - COMP 1234 - Introduction to Web Development
+- Monday
+    - 16:00 - COMP 1236 - Fund. of Computing Logic
+    - 18:00 - COMP 1234 - Introduction to Web Development
 - 
